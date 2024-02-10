@@ -1,0 +1,10 @@
+﻿global using MultiThemes.Helpers;
+global using MultiThemes.Services;
+global using MultiThemes.Services.PlatformsCompilation;
+global using MultiThemes.Themes;
+global using MultiThemes.ViewModels;
+global using MultiThemes.Views.Pages;
+global using System.Collections.ObjectModel;
+global using System.ComponentModel;
+global using System.Globalization;
+global using System.Runtime.CompilerServices;
